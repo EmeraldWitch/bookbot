@@ -1,2 +1,3 @@
 # bookbot
-Project for Boot.dev to make a bot that scans books
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
